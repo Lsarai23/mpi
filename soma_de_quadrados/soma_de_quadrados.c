@@ -5,11 +5,6 @@
 
 #define NUMBERS_AMOUNT 40
 
-/**
- * @author Lucas Pires de Camargo Sarai - 10418013
- *         Turma 06D (manha)
- */
-
 int main(int argc, char** argv){
     int current_process, total_process;
     int full_data[NUMBERS_AMOUNT];
